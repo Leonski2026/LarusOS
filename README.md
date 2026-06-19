@@ -79,6 +79,7 @@ Erstelle einfach ein [Issue hier auf GitHub](https://github.com) mit dem Titel â
 <!-- ENDE DER SPRACH-TABS -->
 
 ---
+Translations welcome! Feel free to open a Pull Request to add LarusOS READMEs in other languages.
 
 ## ðŸŽ¯ Project Status
 Development is fully underway, aiming to push the boundaries of custom OS design and capture the interest of developers and tech enthusiasts worldwide. Stay tuned!
