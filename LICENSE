@@ -1,0 +1,16 @@
+Source-Available License Agreement
+
+Copyright (c) 2026 [Ihr echter Name oder GitHub-Name]. All rights reserved.
+
+1. PURPOSE & PERMISSIONS
+This repository contains the source code for LarusOS. The source code is made publicly visible for educational, review, and demonstration purposes only. You are permitted to view, read, and analyze the code to learn about operating system development.
+
+2. RESTRICTIONS
+You are strictly prohibited from:
+- Copying, redistributing, or publishing the source code (or parts of it) in any form.
+- Modifying, adapting, or creating derivative works based on this software.
+- Using this software, its custom Onyx shell language, or any associated binaries for commercial or private production purposes.
+- Compiling and distributing LarusOS under your own name or any other branding.
+
+3. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
